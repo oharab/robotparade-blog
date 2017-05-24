@@ -1,3 +1,4 @@
+var apm=require ('newrelic');
 var path = require('path');
 var ghost = require('ghost');
 
